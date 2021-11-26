@@ -11,9 +11,13 @@ But the problem of RNN is that it only allows fixed length of inpurt sequence, s
 ## Network Structure
 
 ### network design
+- use LSTM with 512 units
+- use malti-head attention
+
 
 ## Data
-
+The data contains 24 anime musics <br>
+and is collected from [https://www.midiclouds.com/forum-4-1.html]
 ## Result
 
 ## References

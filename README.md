@@ -19,6 +19,7 @@ But the problem of RNN is that it only allows fixed length of inpurt sequence, s
 The data contains 24 anime musics <br>
 and is collected from [https://www.midiclouds.com/forum-4-1.html]
 ## Result
-
+Although the result looks terrible and had been overfitting, <br>
+But it did capture some of the information in the original data, that makes it a bit like real music.
 ## References
 davidADSP GDL_code[https://github.com/davidADSP/GDL_code]

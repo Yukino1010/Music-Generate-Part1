@@ -17,7 +17,7 @@ But the problem of RNN is that it only allows fixed length of inpurt sequence, s
 
 
 ## Data
-The data contains 24 anime musics <br>
+The data contains 18 anime musics <br>
 and is collected from [https://www.midiclouds.com/forum-4-1.html]
 ## Result
 
